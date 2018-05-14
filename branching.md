@@ -6,5 +6,5 @@ Testing to merge on GitHub!
 
 Merge conflict here please :)
 
-Second merge conflict
+Write somethign else here.
 
